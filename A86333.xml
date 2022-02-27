@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O hone! O hone! a magpyc-lecture [sic] by way of lamentation for the miscarriage of the plot, and the loss of the late intended French invasion : as it was delivered by a non-swearing parson in the fam'd congreation in Magpye-Alley, near Fetter-Lane, London, the 15th of this instant May, 1692 / by D.H--- late D. of G.</title>
+            <author>D. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86333</idno>
+            <idno type="STC">Wing H18A</idno>
+            <idno type="STC">ESTC R43631</idno>
+            <idno type="EEBO-CITATION">42475038</idno>
+            <idno type="OCLC">ocm 42475038</idno>
+            <idno type="VID">151163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2246:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>O hone! O hone! a magpyc-lecture [sic] by way of lamentation for the miscarriage of the plot, and the loss of the late intended French invasion : as it was delivered by a non-swearing parson in the fam'd congreation in Magpye-Alley, near Fetter-Lane, London, the 15th of this instant May, 1692 / by D.H--- late D. of G.</title>
+                  <author>D. H.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.F. and are to be sold at the Jacobite Conventicles of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, worn, and with print show-through.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lancashire Plot, 1689-1694 --  Early works to 1800.</term>
+               <term>Jacobites --  Humor --  Early works to 1800.</term>
+               <term>Nonjurors --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151163:1"/>
+            <p>
+               <hi>O Hone! O Hone!</hi>
+            </p>
+            <p>A <hi>Magpye-Lecture,</hi> By way of LAMENTATION, FOR THE Miſcarriage of the Plot, And the Loſs of the late Intended French Invaſion, As it was Delivered By a Non-Swearing Parſon IN THE Fam'd Congregation in <hi>Magpye-Atley,</hi> near <hi>Fetter-Lane, London,</hi> the 15th. of this Inſtant <hi>May,</hi> 1692.</p>
+            <p>By <hi>D. H</hi>— late <hi>D.</hi> of <hi>G.</hi>
+            </p>
+            <q>
+               <hi>Woe unto us, for the WIND was againſt us.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. F.</hi> and are to be Sold at the <hi>Jacobite</hi> Conventicles of <hi>London</hi> and <hi>Weſtminſter.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:151163:2" rendition="simple:additions"/>
+            <head>In the Epiſtle of St. <hi>Lodowick</hi> to the <hi>Gallicans,</hi> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th. and the 14th.</head>
+            <head type="sub">Woe unto us, for the Wind was againſt us.</head>
+            <p>MY Beloved, being here met together, like <hi>Jews</hi> at a <hi>Paſſover,</hi> with our Loyns girt, for a ſhort bit and away, for fear of thoſe Philiſtines and Moabites, the Beadles and Conſtables, being met, I ſay, in this <hi>Moſt Chriſtian</hi> (to borrow the Title of our Great Lord and Maſter) Aſſembly, I have made choice of a Text properly ſuitable to our preſent occaſion: <hi>Woe unto us, for the Wind ſtood againſt us.</hi>
+            </p>
+            <p>Before I launch into ſo large a Field as lies before me, in the ſubject of my following Diſcourſe, I think fit firſt to prepare you for a due Attention and Re<g ref="char:EOLhyphen"/>ception of the great Truths delivered in my Text, by giving you a ſhort, but glorious Character of the great St. <hi>Lodowick,</hi> the Divine Oracle that ſpeaks it.</p>
+            <p>Our St. <hi>Lodowick,</hi> that great <hi>Boanerges</hi> of Mankind, the miraculous firſt born of his Mother, after twenty two years Conception, and ſent into the World for the Converſion of Nations, by the Infallibility of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ombs and Cannons. That great Colledge of <hi>Maho<g ref="char:EOLhyphen"/>met,</hi> the only Apoſtle <hi>Militant</hi> both of the <hi>Creſcent</hi> and <hi>Croſs,</hi> ſpeaks to his booted Diſciples, the <hi>Galli<g ref="char:EOLhyphen"/>cans,</hi> in the words of my Text: <hi>Woe unto us, for the Wind ſtood againſt us.</hi> And why all this denuntiati<g ref="char:EOLhyphen"/>on of Woe? Yea verily, my Beloved, never a more
+<pb n="3" facs="tcp:151163:2" rendition="simple:additions"/>ſad occaſion for wailing and lamentation. A Deſign ſo great and glorious as a <hi>Deſcent from</hi> France, <hi>an Invaſion of</hi> England, ſo politickly laid, and ſo hope<g ref="char:EOLhyphen"/>fully carried on, and yet to be ſo diſmally blaſted, blown up, as I may ſay, by a Wind! To be ready and prepared ſo early in the Spring with 30000 <hi>Swiſs, Iriſh, Scotch,</hi> and <hi>French</hi> roaring Boys, to make a whip over, before the Heretick <hi>Williamites</hi> were a<g ref="char:EOLhyphen"/>wake, to oppoſe 'em, invited over too by Us the Loyal and Dutiful <hi>Jacobite</hi> Vaſſals, and Slaves to his moſt Anti-chriſtian <hi>Sultanſhip,</hi> all ſworn upon the <hi>Al<g ref="char:EOLhyphen"/>coran,</hi> ſo fat a ſquob as little dear <hi>England,</hi> ſo delici<g ref="char:EOLhyphen"/>ous a bit, juſt ready for his Pounce and Talons, and all loſt by a Wind: <hi>For woe unto us, the Wind was a<g ref="char:EOLhyphen"/>gainſt us.</hi>
+            </p>
+            <p>And now my, Beloved, have we the faithful <hi>Non-Jurants;</hi> his true and truſty Muſslemen, ſo long Preacht in Cellars and Garrets, the indiſpenſable Du<g ref="char:EOLhyphen"/>ty of Fidelity and Allegiance to our great <hi>Gallican</hi> Lord and Soveraign; even to a <hi>Curſe ye Meroz</hi> in his Cauſe. Oh the bleſſed Day, when the <hi>Gallican Miſs,</hi> and <hi>Gallican</hi> Patriots at the Helm, the Advancement and Exaltation of the <hi>Gallican</hi> Greatneſs and Glory was the whole work and ſtudy of ſo many hopeful years, when the humble <hi>Engliſh</hi> Effeminacy was ſo induſtriouſly planting and watering his dear <hi>Flour-de-Luces:</hi> Even our very <hi>Lyons</hi> of <hi>Judah</hi> all turned to his dutiful aſſiſting <hi>Iſachars.</hi> Did we not ſee all this, and by the Duty of our <hi>Paſſive Obedience,</hi> uſe all our Paſtoral Eloquence and Authority to Preach and In<g ref="char:EOLhyphen"/>culcate ſo divine a Cauſe. But not to call that happy Remembrance back again, ſo ſweet to our Ears and ſo dear to our Souls, alas! the preſent buſineſs of the
+<pb n="4" facs="tcp:151163:3"/>day is a more lamentable Subject; for, <hi>Woe unto us, the Wind was againſt us.</hi>
+            </p>
+            <p>But how, my Beloved, was the Wind againſt us? Oh, verily moſt perniciouſly, directly oppoſite to all our Hopes and Deſigns, that is to ſay, it ſtood in a <hi>Pro<g ref="char:EOLhyphen"/>teſtant Corner,</hi> yea, in a <hi>Proteſtant Corner;</hi> a Woe in<g ref="char:EOLhyphen"/>deed, too bitter a draught of Gall even to be ſwallow<g ref="char:EOLhyphen"/>ed, or digeſted.</p>
+            <p>Oh the comfortable ſweets and the heavenly <hi>Man<g ref="char:EOLhyphen"/>na</hi> we had taſted, that Soveraign Cordial to our droo<g ref="char:EOLhyphen"/>ping Souls, had we once feaſted our Senſes with ſo rio<g ref="char:EOLhyphen"/>tous a pleaſure, as to have ſeen the conſecrated Dag<g ref="char:EOLhyphen"/>gers of our dear <hi>Iriſh</hi> Brethren in the throats of our Heretick Enemies, to have battend in Maſſacre, and fatten'd with blood: But, alas, that Divine delight is utterly daſht and defeated: For <hi>woe unto us, the Wind was againſt us.</hi>
+            </p>
+            <p>Now my Beloved we have a great many very ſad Reaſons to lament that the Wind ſhould be in the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Corner.</hi> For firſt, what is Wind but Air? and the <hi>Prince of the Air</hi> being of our Party, 'tis very hard that the Wind ſhould be againſt us.</p>
+            <p>Secondly, The Wind has yet ſtronger Obligations to be of our Party. For, Beloved, it is written, that the Wind <hi>bloweth where it liſteth;</hi> that is to ſay, Ruleth and Coverneth <hi>ala mode de France,</hi> at its own <hi>Arbitrary Will</hi> and <hi>Pleaſure.</hi> And under that denomination of <hi>Abſolute</hi> and <hi>Arbitrary,</hi> the divine Attributes of our Great Patron <hi>Lodowick,</hi> one would think the Wind ſhould be a <hi>Jacobite.</hi> But this wicked Rebellious and unnatural Wind is a <hi>Proteſtant one,</hi> lay full in the Teeth of our <hi>Invincible Monarch,</hi> and overthrew all our Hopes and Foundation.</p>
+            <pb n="5" facs="tcp:151163:3"/>
+            <p>Now, Beloved, as the Wind ruleth and governeth, as I ſaid before, what, or what manner of Rule and Government is it, that that Rebel the Wind holdeth or uſurpeth: A very large one, my Beloved, a wide and and ample Dominion, my Brethren, for it blow<g ref="char:EOLhyphen"/>eth from the four Corners of the Earth; from the four did I ſay? Yea, and from the twice fourteen <hi>By-Cor<g ref="char:EOLhyphen"/>ners</hi> alſo. And this malicious and ſpightful Proteſtant Air, lay in the <hi>North</hi> and <hi>By Eaſt,</hi> one of the <hi>BY-Cor<g ref="char:EOLhyphen"/>ners,</hi> my Beloved: And having named that ſhort word or Particle <hi>[BY]</hi> which Heaven knows is but a little one, yet, Beloved, 'tis a very Emphatick one: For in<g ref="char:EOLhyphen"/>ſtance in ſeveral weighty particulars relating to our whole Deſigns.</p>
+            <p>As firſt, our great <hi>Jacobite</hi> Plot, which we were juſt hatching in the World, proves an Abortive, or to uſe the <hi>Pagan</hi> Language of our Enemies, a <hi>Sooterkin,</hi> nay, and what's worſe, a <hi>BY-Blow.</hi> The great Cham<g ref="char:EOLhyphen"/>pions and Heroes of our Cauſe having given us the <hi>Go-BY,</hi> are thrown into the <hi>Tower, New-gate, Gate-houſe,</hi> and other <hi>BY</hi>-places; and to ſumm all, too ma<g ref="char:EOLhyphen"/>ny of 'em, to our great Sorrow and Lamentation, are like to be hang'd too <hi>by</hi> the <hi>BY.</hi> And their very names and memories, my Beloved, no more than a <hi>BY-word</hi> amonſt our reviling and ſneering Enemies. And therefore, as I ſaid before, this Particle <hi>[BY]</hi> is a very Emphatick one. Nay 'to continue the Empha<g ref="char:EOLhyphen"/>tickneſs of this woful <hi>[BY,] By</hi> St. <hi>Patrick</hi> and St. <hi>Loyala,</hi> our two great <hi>Jacobite</hi> Saints, never was De<g ref="char:EOLhyphen"/>ſign better laid and projected. A great Navy, and ſeveral hundreds of Tranſport Ships, all ready by the beginning of <hi>April</hi> to <hi>ſtip BY,</hi> before the <hi>Engliſh Fleet</hi> could get out, and land an Army of dear <hi>Teagues</hi>
+               <pb n="6" facs="tcp:151163:4"/>and <hi>Rapparees,</hi> our Truſty and Beloved Sworn Bro<g ref="char:EOLhyphen"/>thers. But this Great and Invincible <hi>Armado,</hi> inſtead of <hi>getting BY,</hi> to be forc'd to <hi>lye BY,</hi> to have a long five Weeks Wind lye in this damn'd North-Eaſt, <hi>BY-Corner,</hi> and not only ſo, but a malicious Proteſtant Storm too to fall foul upon our <hi>Thoulon</hi> Fleet, and give our Expedition ſo great a <hi>Put-BY,</hi> till the whole <hi>Wil<g ref="char:EOLhyphen"/>liamite</hi> Fleet is not only Equipped and Manned, but alſo <hi>Sail'd BY,</hi> and what is yet worſt of all, reſolved to <hi>Stand BY</hi> their great Heretick Lord and Maſter. And all this through that calamitous Diſappointment of <hi>Woe unto us, the Wind was againſt us.</hi>
+            </p>
+            <p>After this deplorable <hi>Cataſtrophie,</hi> let us hang up our Harps, our <hi>Iriſh</hi> Harps, upon the Willows, and ſigh and ſob in the bitterneſs of Spirit, and anguiſh of Heart, and mix our Cup of Affliction, even with the Lees of Vinegar, let it be the true White-wine Vine<g ref="char:EOLhyphen"/>gar, my Beloved, the Growth and Product of our own ſtill dear, tho' bitter Grapes; and no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ophiſticate A<g ref="char:EOLhyphen"/>dulteration of <hi>Barly</hi> or <hi>Crab,</hi> that Heretick Verjuice, our Loathing and Abomination. For let us not ſtart from our Cauſe, or our Principles, though <hi>Woe be unto us, the Wind is againſt us.</hi>
+            </p>
+            <p>Now Beloved, to give you ſome farther Light into my Text, it will not be unſeaſonable to make ſome more large inquiry into the nature of Wind. And here occurrs a very natural Obſervation, relating to the Extent or Power of Wind. Wind therefore is two-fold, not only that bluſtering Termagant Roarer and Rover, the wicked Enemy of our Cauſe, that <hi>An<g ref="char:EOLhyphen"/>ti-Jacobite</hi> Element, that blows from the <hi>North</hi> and the <hi>Eaſt,</hi> or from any other Corner of the greater World; there is a Wind likewiſe proper and peculiar only to
+<pb n="7" facs="tcp:151163:4"/>the leſſer World, blowing and breathing from the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orners and Crannies of that <hi>Microcoſme</hi> of Man. And this laſt Wind is of two kinds, both Learnedly diſplay'd and decipher'd by a very Eminent Author.</p>
+            <q>
+               <l>Thus Wind ith' <hi>Hypocondriack</hi> pent,</l>
+               <l>Turns but a blaſt, if downwards ſent;</l>
+               <l>But if it upwards chance to fly,</l>
+               <l>It proves new Light and Prophecy.</l>
+            </q>
+            <p>You ſee, Beloved, here are two Winds, purely <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igning and governing in our humane <hi>Microcoſme.</hi> The one, as I may ſay, a kind of a <hi>Subterranean Wind</hi> ram<g ref="char:EOLhyphen"/>bling and rumbling in the Internes and Cavernes of our Humane Terreſtrial, and iſſuing forth, as the Poet obſerves, down-wards in that formidable, tho' ſhort-lived obſtreperous Fulmination, if I may ſo ſay, Lear<g ref="char:EOLhyphen"/>nedly called a <hi>Blaſt.</hi> The ſecond Wind, here dignified by the Title of <hi>New Light and Prophecy;</hi> of which I'll ſpeak in their Order.</p>
+            <p>To begin therefore with the firſt, the firſt in Order, though not the firſt in Quality, a <hi>Blaſt:</hi> A <hi>Blaſt</hi> did I ſay, ſomething an unſavory Conception, my Beloved; but truly, Brethren, very proper to our Cauſe: For even under that mean Claſs of Winds, that feeble homely puff, call'd a <hi>Blaſt,</hi> may many Heroick Ex<g ref="char:EOLhyphen"/>ploits be, not unjuſtly, rank'd and number'd, as being the Determinating point of too many Illuſtrious De<g ref="char:EOLhyphen"/>ſignes and Atchievements.</p>
+            <p>For inſtance, what did our <hi>Maudlin-Colledge</hi> Re<g ref="char:EOLhyphen"/>formation, our Spiritual <hi>High-Commiſſion,</hi> our <hi>Caſtle<g ref="char:EOLhyphen"/>main Nuntio-ſhip,</hi> and <hi>Tyrconnel Vice-Royalty,</hi> and all the reſt of our Popiſh Mines and Batteries, all the
+<pb n="8" facs="tcp:151163:5"/>Grand Projections of our late Eminent St are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> kers, and Court-Locuſts, end in, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Blaſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what came all our Formidable <hi>Silisbuty Expedition,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Blaſt: Our Running Fight on the blind ſide <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Boyne,</hi> and indeed, all the reſt of our Iriſh Chival<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but Blaſt, Blaſt all Blaſt. And truly my Beloved, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aking heart and we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ping eyes be it ſpoken, we ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but too much Reaſon to fear and dread, that o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole Deſcent and Invaſion will terminate in ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch another unſavoury Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff, a Blaſt; what ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I call it, a Puff, a Vapour, a little diminitive Back<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id Crack, that's All, my Beloved. For, <hi>Woe unto us, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Wind was againſt us.</hi>
+            </p>
+            <p>Now to come to our ſecond Wind, our <hi>New Lig'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Prophecy,</hi> under this Claſs are to be reckon'd <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Divine <hi>Gadbury</hi>'s Predictions, and the reſt of our Great Prophecies, the Crutch and Prop of all our finking Hopes, ſuch as our
+<q>In ternis Annis Rex Religioque redibunt.</q>
+            </p>
+            <p>And now I come to ſpeak of Prophecies: Even thoſe Superiour Ebullitions of Wind may not imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>perly be ranked under the notion or name of Bla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> For as the forementioned Blaſt is only a violent Erup<g ref="char:EOLhyphen"/>tion of ſome Corporeal Collection of Vapo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, ſa<g ref="char:EOLhyphen"/>vour'd and hogoed in its Evaporation, according to the Odour of the Internal Minerals through which it paſſes; The like may be ſaid of all our Great <hi>Jacob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> Propheticks and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rognoſticks, as being only a Spiri<g ref="char:EOLhyphen"/>tual ſort of Whiff, the Erruption-likewiſe of ſome Mercurials Volatiles, through the Misfortune and Calamity of all our Deſeated Expectations, Mundun<g ref="char:EOLhyphen"/>gofyed into a <hi>Blaſt:</hi> For, <hi>Woe be unto us, the Wind ſits againſt us.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licens'd, according to Order.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
